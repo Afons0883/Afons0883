@@ -5,25 +5,25 @@
 ### 🧠 Sobre mim
 - 🌎 De Barras, Piauí 🇧🇷
 - 🎯 Apaixonado por tecnologia e solução de problemas
-- 💬 Linguagens favoritas: [adicione aqui]
+- 💬 Linguagens favoritas: [Typscript,javascript,phyton]
 - 🚀 Sempre curioso por novos desafios e projetos criativos
 
 ### 📚 Em busca de conhecimento
-- 📘 Estudando: [coloque o que está aprendendo agora]
+- 📘 Estudando: [Typscript/Javascript]
 - 🔍 Explorando áreas como: desenvolvimento web, apps, automação...
 
 ### 🛠️ Ferramentas e Tecnologias
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github)
 
 ### 📂 Projetos
-- [🔧 Nome do Projeto 1](#) — descrição curta
-- [📱 Nome do Projeto 2](#) — descrição curta
+- [🔧 Delivery barras](#) — descrição curta
+
 
 ### 📫 Vamos conversar?
 Me encontra por aqui:
-- 📧 Email: seuemail@email.com
+- 📧 Email: afonsovanderlei802@gmail.com
 - 💼 LinkedIn: [link]
-- 🐦 Twitter: [link]
+  
 
 ---
 
