@@ -16,7 +16,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github)
 
 ### 📂 Projetos
-- [🔧 Delivery barras](#) — descrição curta
+- [🔧 https://github.com/Afons0883/Delivery.git](#) — descrição curta
 
 
 ### 📫 Vamos conversar?
