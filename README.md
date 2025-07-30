@@ -22,7 +22,7 @@
 ### 📫 Vamos conversar?
 Me encontra por aqui:
 - 📧 Email: afonsovanderlei802@gmail.com
-- 💼 LinkedIn: [link]
+- 💼 LinkedIn: Siga-me no LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=afonso-vanderlei-15a108362
   
 
 ---
